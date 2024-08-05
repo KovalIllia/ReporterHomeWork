@@ -1,0 +1,14 @@
+C:\Users\illia.koval\RiderProjects\ReporterHomeWork\ReporterHomeWork\obj\Debug\net8.0\ReporterHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\illia.koval\RiderProjects\ReporterHomeWork\ReporterHomeWork\obj\Debug\net8.0\ReporterHomeWork.AssemblyInfoInputs.cache
+C:\Users\illia.koval\RiderProjects\ReporterHomeWork\ReporterHomeWork\obj\Debug\net8.0\ReporterHomeWork.AssemblyInfo.cs
+C:\Users\illia.koval\RiderProjects\ReporterHomeWork\ReporterHomeWork\obj\Debug\net8.0\ReporterHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\illia.koval\RiderProjects\ReporterHomeWork\ReporterHomeWork\bin\Debug\net8.0\ReporterHomeWork.exe
+C:\Users\illia.koval\RiderProjects\ReporterHomeWork\ReporterHomeWork\bin\Debug\net8.0\ReporterHomeWork.deps.json
+C:\Users\illia.koval\RiderProjects\ReporterHomeWork\ReporterHomeWork\bin\Debug\net8.0\ReporterHomeWork.runtimeconfig.json
+C:\Users\illia.koval\RiderProjects\ReporterHomeWork\ReporterHomeWork\bin\Debug\net8.0\ReporterHomeWork.dll
+C:\Users\illia.koval\RiderProjects\ReporterHomeWork\ReporterHomeWork\bin\Debug\net8.0\ReporterHomeWork.pdb
+C:\Users\illia.koval\RiderProjects\ReporterHomeWork\ReporterHomeWork\obj\Debug\net8.0\ReporterHomeWork.dll
+C:\Users\illia.koval\RiderProjects\ReporterHomeWork\ReporterHomeWork\obj\Debug\net8.0\refint\ReporterHomeWork.dll
+C:\Users\illia.koval\RiderProjects\ReporterHomeWork\ReporterHomeWork\obj\Debug\net8.0\ReporterHomeWork.pdb
+C:\Users\illia.koval\RiderProjects\ReporterHomeWork\ReporterHomeWork\obj\Debug\net8.0\ReporterHomeWork.genruntimeconfig.cache
+C:\Users\illia.koval\RiderProjects\ReporterHomeWork\ReporterHomeWork\obj\Debug\net8.0\ref\ReporterHomeWork.dll
